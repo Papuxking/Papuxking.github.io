@@ -1,0 +1,56 @@
+[
+  {
+    "id": "sistema-docentes-tutores",
+    "featured": true,
+    "title": {
+      "es": "Sistema de Docentes Tutores",
+      "en": "Thesis Tutoring System"
+    },
+    "description": {
+      "es": "Sistema de seguimiento para estudiantes que realizan su tesis. Gestión de tutores, avances y documentación académica.",
+      "en": "Tracking system for students completing their thesis. Tutor management, progress tracking and academic documentation."
+    },
+    "tech": ["JavaScript", "Node.js", "MySQL", "HTML/CSS"],
+    "emoji": "📚",
+    "gradient": "linear-gradient(135deg,#1a0a3a,#0a2a1a)",
+    "github": "https://github.com/Papuxking/Sistema-de-docentes-tutores",
+    "demo": null,
+    "status": "completed"
+  },
+  {
+    "id": "godot-project-01",
+    "featured": true,
+    "title": {
+      "es": "Proyecto Godot — En desarrollo",
+      "en": "Godot Project — In Development"
+    },
+    "description": {
+      "es": "Juego 2D con Godot 4 y GDScript. Mecánicas de plataformas, sistema de combate y pixel art original.",
+      "en": "2D game with Godot 4 and GDScript. Platformer mechanics, combat system and original pixel art."
+    },
+    "tech": ["Godot 4", "GDScript", "Pixel Art", "Tiled"],
+    "emoji": "🎮",
+    "gradient": "linear-gradient(135deg,#2a0a1a,#1a0a3a)",
+    "github": "https://github.com/Papuxking",
+    "demo": null,
+    "status": "in-progress"
+  },
+  {
+    "id": "fullstack-app",
+    "featured": true,
+    "title": {
+      "es": "App Full-Stack — Próximamente",
+      "en": "Full-Stack App — Coming Soon"
+    },
+    "description": {
+      "es": "Aplicación web con React en frontend, API REST con Python/FastAPI y base de datos PostgreSQL. Docker para despliegue.",
+      "en": "Web app with React frontend, Python/FastAPI REST API and PostgreSQL database. Docker for deployment."
+    },
+    "tech": ["React", "Python", "FastAPI", "PostgreSQL", "Docker"],
+    "emoji": "⚙️",
+    "gradient": "linear-gradient(135deg,#0a1a3a,#0a2a2a)",
+    "github": "https://github.com/Papuxking",
+    "demo": null,
+    "status": "planned"
+  }
+]
